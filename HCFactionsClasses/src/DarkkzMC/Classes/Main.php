@@ -1,5 +1,5 @@
 <?php
-namespace eon\Classes;
+namespace DarkkzMC\Classes;
 
 use pocketmine\entity\Effect;
 use pocketmine\event\entity\EntityArmorChangeEvent;
